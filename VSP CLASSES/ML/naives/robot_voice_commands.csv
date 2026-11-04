@@ -1,0 +1,161 @@
+command,action
+hey robot spin to the left,turn
+can you halt here,stop
+please halt right now,stop
+please move to the door,move
+grab the box,grab
+robot pick up the cup,grab
+can you go to the door,move
+please wait now,stop
+robot grab the cup,grab
+now spin left,turn
+please lift the blue block,grab
+freeze right now,stop
+hey robot halt now,stop
+robot move straight,move
+robot rotate ninety degrees,turn
+lift it,grab
+robot lift it,grab
+spin ninety degrees,turn
+can you turn right,turn
+robot face left,turn
+can you face towards the window,turn
+can you halt immediately,stop
+lift the blue block,grab
+stop here,stop
+drive straight,move
+hey robot stop please,stop
+hey robot move fast,move
+spin towards the window,turn
+please move fast,move
+grab the cup,grab
+hey robot halt now,stop
+now go fast,move
+robot stop right now,stop
+can you rotate left,turn
+now rotate left,turn
+can you lift the tool,grab
+robot head two metres,move
+please freeze please,stop
+can you turn to the left,turn
+now hold the red ball,grab
+head ahead,move
+now lift the box,grab
+robot halt for a moment,stop
+please drive straight,move
+can you head to the door,move
+robot rotate around,turn
+grab that bottle,grab
+drive to the kitchen,move
+can you spin ninety degrees,turn
+hey robot freeze immediately,stop
+robot spin right,turn
+hey robot stop please,stop
+hey robot rotate to the left,turn
+can you grab the blue block,grab
+robot go forward,move
+robot pick up that bottle,grab
+robot face right,turn
+hey robot freeze now,stop
+now spin to the right,turn
+robot grab the red ball,grab
+robot lift it,grab
+now lift it,grab
+can you pick up that bottle,grab
+grab the red ball,grab
+can you spin right,turn
+hey robot go straight,move
+freeze now,stop
+can you stop right now,stop
+can you spin around,turn
+please spin towards the window,turn
+can you spin around,turn
+hey robot freeze immediately,stop
+drive to the door,move
+can you lift that bottle,grab
+can you halt for a moment,stop
+can you turn right,turn
+hey robot freeze here,stop
+hey robot turn right,turn
+can you head forward,move
+please halt now,stop
+now wait right now,stop
+please lift the blue block,grab
+can you wait now,stop
+can you grab the blue block,grab
+hey robot drive forward,move
+robot halt for a moment,stop
+robot face to the left,turn
+go to the kitchen,move
+hey robot spin around,turn
+can you wait please,stop
+hey robot pick up the red ball,grab
+now rotate left,turn
+robot drive two metres,move
+can you head fast,move
+stop now,stop
+hey robot head forward,move
+now face ninety degrees,turn
+please move slowly,move
+stop please,stop
+robot go slowly,move
+now drive slowly,move
+please face ninety degrees,turn
+can you face to the right,turn
+hey robot move two metres,move
+can you stop there,stop
+robot freeze immediately,stop
+robot hold the box,grab
+robot freeze here,stop
+go to the door,move
+now drive to the door,move
+can you spin to the right,turn
+drive to the kitchen,move
+robot grab the tool,grab
+robot hold it,grab
+move two metres,move
+now drive ahead,move
+can you freeze here,stop
+now hold the blue block,grab
+robot move ahead,move
+now rotate right,turn
+can you grab the red ball,grab
+can you hold the red ball,grab
+pick up it,grab
+please freeze for a moment,stop
+can you pick up the red ball,grab
+hold the box,grab
+spin right,turn
+hey robot wait here,stop
+please rotate to the left,turn
+robot pick up the tool,grab
+robot wait there,stop
+can you face to the right,turn
+please head to the kitchen,move
+hey robot hold the tool,grab
+robot turn to the right,turn
+hey robot grab it,grab
+robot pick up the red ball,grab
+robot go slowly,move
+stop for a moment,stop
+hey robot spin right,turn
+please wait there,stop
+grab that bottle,grab
+can you head to the kitchen,move
+head fast,move
+can you go ahead,move
+hey robot halt now,stop
+robot face ninety degrees,turn
+can you hold the tool,grab
+stop there,stop
+hey robot grab that bottle,grab
+spin to the right,turn
+now drive straight,move
+now grab the tool,grab
+can you go straight,move
+robot wait here,stop
+now move fast,move
+hey robot head to the kitchen,move
+hey robot freeze now,stop
+robot turn right,turn
+robot face left,turn
